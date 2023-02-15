@@ -1,0 +1,48 @@
+/* Recipes Page*/
+*{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+main{
+    padding: 50px 200px;
+    margin: 10px 200px;
+    border: 1px solid black;
+    border-radius: 10%;
+}
+
+h1, .subheader, p{
+    text-align: center;
+}
+
+.image-header{
+    width: 100%;
+    text-align: center;
+}
+
+img{
+    height: 800px;
+}
+
+.subheader{
+    color: rgb(68, 68, 68);
+}
+
+h1, p, li{
+    color: rgb(92, 92, 92);
+}
+
+.subheader.meal-preparation{
+    text-align: left;
+}
+
+.options-recipe{
+    padding: 0;
+    text-align: center;
+}
+
+.options-recipe li{
+    list-style-type: none;
+    list-style-position: inside;
+}
+
+
