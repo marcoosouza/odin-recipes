@@ -13,17 +13,23 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 10px;
+  padding: 30px 30px 15px 30px;
 }
 
 .title {
   font-size: 70px;
   font-weight: 700;
+  margin-top: 0;
 }
 
 .header-text {
   font-family: "Amatic SC", cursive;
   color: darkred;
+}
+
+.home-image {
+  height: 500px;
+  width: auto;
 }
 
 .section {
@@ -55,6 +61,7 @@ body {
   background-color: darkred;
   padding: 0.5em;
   border-radius: 1em;
+  margin-top: 15px;
 }
 
 .home-button:hover {
