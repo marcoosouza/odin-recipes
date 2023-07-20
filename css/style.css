@@ -43,7 +43,7 @@ body {
 }
 
 .recipes a {
-  text-decoration: none;
+  text-decoration: underline;
   color: darkred;
 }
 
